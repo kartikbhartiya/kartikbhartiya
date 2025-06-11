@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Kartik+Bhartiya;Aspiring+Software+Engineer;Focused+on+DSA+%7C+C+%7C+Java+%7C+Python;Prepping+for+College+Computer+Science+Journey" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+👋%2C+I'm+Kartik+Bhartiya;Aspiring+Software+Engineer;Focused+on+DSA+%7C+C+%7C+Java+%7C+Python;Prepping+for+College+Computer+Science+Journey" alt="Typing SVG" />
 </div>
+
 
 <br />
 
