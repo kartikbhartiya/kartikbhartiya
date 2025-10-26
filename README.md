@@ -156,15 +156,26 @@
       <td align="center">
         <h3>🎯 LeetCode Progress</h3>
         <a href="https://leetcode.com/kartikbhartiya" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/kartikbhartiya?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats" />
+          <img src="https://leetcard.jacoblin.cool/kartikbhartiya?theme=dark&font=JetBrains%20Mono&ext=heatmap,contest" alt="LeetCode Stats" />
         </a>
+        <br><br>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Problems%20Solved-80+-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+          <img src="https://img.shields.io/badge/Contest%20Rating-1400+-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+        </p>
         <br>
         <a href="https://leetcode.com/kartikbhartiya">
-          <img src="https://img.shields.io/badge/LeetCode-kartikbhartiya-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+          <img src="https://img.shields.io/badge/LeetCode-kartikbhartiya-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
         </a>
       </td>
     </tr>
   </table>
+
+</div>
+
+
+</div>
+
 
 </div>
 
