@@ -25,7 +25,7 @@
 </p>
 
 ### 🔬 Engineering Rigor
-- **Open Source:** Contributor to **OpenWISP**, analyzing complex codebases and enhancing networking infrastructure.
+- **Open Source:** Contributor to **OpenWISP**, analyzing complex codebases and solving security vulnerabilities.
 - **Problem Solving:** **220+** LeetCode problems solved (C++), optimizing for memory and compute efficiency.
 
 ---
