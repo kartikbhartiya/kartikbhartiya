@@ -15,9 +15,9 @@
 
 ### 🚀 Flagship Ventures
 
-| 🌟 **[eclix.me](https://eclix.me)** | 🧹 **[zarpit.com](https://zarpit.com)** |
-| :--- | :--- |
-| **Founder & Lead Developer** <br> A centralized platform for AKTU & JEE students uniting video lectures, notes, and community. <br> *React • PostgreSQL • Razorpay* | **Lead Developer** <br> An on-demand home cleaning service platform providing seamless booking experiences. <br> *Next.js • React • PostgreSQL* |
+| 🌟 **[eclix.me](https://eclix.me)** | 🧹 **[zarpit.com](https://zarpit.com)** | 🛠️ **[partner.zarpit.com](https://partner.zarpit.com)** |
+| :--- | :--- | :--- |
+| **Founder & Lead Developer** <br> A centralized platform for AKTU & JEE students uniting video lectures, notes, and community. <br> *React • PostgreSQL • Razorpay* | **Lead Developer** <br> An on-demand home cleaning service platform providing seamless booking experiences. <br> *Next.js • React • PostgreSQL* | **Lead Developer** <br> A dedicated partner/worker panel for service professionals to track and manage their orders. <br> *Next.js • React • PostgreSQL* |
 
 ### 💻 Arsenal
 <p>
@@ -25,7 +25,7 @@
 </p>
 
 ### 🔬 Engineering Rigor
-- **Open Source:** Contributor to **OpenWISP**, analyzing complex codebases and solving security vulnerabilities.
+- **Open Source:** Contributor to **OpenWISP**, analyzing complex codebases and enhancing networking infrastructure.
 - **Problem Solving:** **220+** LeetCode problems solved (C++), optimizing for memory and compute efficiency.
 
 ---
